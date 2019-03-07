@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+/* icomoon scss
+========================================================================= */
+
+@font-face {
+	font-family: 'arqcubo-v1';
+	src:url('../fonts/arqcubo-v1.eot?-v8rntv');
+	src:url('../fonts/arqcubo-v1.eot?#iefix-v8rntv') format('embedded-opentype'),
+		url('../fonts/arqcubo-v1.woff?-v8rntv') format('woff'),
+		url('../fonts/arqcubo-v1.ttf?-v8rntv') format('truetype'),
+		url('../fonts/arqcubo-v1.svg?-v8rntv#arqcubo-v1') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@mixin icon {
+	font-family: 'arqcubo-v1';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Enable Ligatures ================ */
+	-webkit-font-feature-settings: "liga";
+	-moz-font-feature-settings: "liga=1";
+	-moz-font-feature-settings: "liga";
+	-ms-font-feature-settings: "liga" 1;
+	-o-font-feature-settings: "liga";
+	font-feature-settings: "liga";
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+[data-icon]:before {
+	@include icon;
+	content: attr(data-icon);
+}
