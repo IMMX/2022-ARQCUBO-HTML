@@ -1,35 +1,474 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE HTML>
+<html lang="es">
 <head>
-<title>Cotizador en l&iacute;nea Arqcubo | Presupuesta con nosotros la costrucci&oacute;n de tu casa</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+<!-- BEGIN SEOmatic rendered SEO Meta -->
+
+<title>Cotiza en línea la costrucción de tu casa | Estudio de Arquitectura | Arqcubo</title>
+
+<!-- Standard SEO -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+<meta name="robots" content="all" />
+<meta name="keywords" content="cotizador, construcción, arquitectos, mexico, queretaro" />
+<meta name="description" content="Cotizador en Línea | Despacho de Arquitectos en Querétaro y Ciudad de México" />
+<meta name="generator" content="SEOmatic" />
+<link rel="canonical" href="https://www.arqcubo.com/Calculadora/" />
+<meta name="geo.region" content="Naucalpan" />
+<meta name="geo.position" content="-99.245,19.517" />
+<meta name="ICBM" content="-99.245,19.517" />
+<meta name="geo.placename" content="Arqcubo S.A. de C.V." />
+
+<!-- Dublin Core basic info -->
+
+<meta name="dcterms.Identifier" content="https://www.arqcubo.com" />
+<meta name="dcterms.Format" content="text/html" />
+<meta name="dcterms.Relation" content="Arqcubo" />
+<meta name="dcterms.Language" content="es" />
+<meta name="dcterms.Publisher" content="Arqcubo" />
+<meta name="dcterms.Type" content="text/html" />
+<meta name="dcterms.Coverage" content="https://www.arqcubo.com.mx/" />
+<meta name="dcterms.Rights" content="Copyright &copy;2019 Arqcubo S.A. de C.V. " />
+<meta name="dcterms.Title" content="Estudio de Arquitectura" />
+<meta name="dcterms.Creator" content="Insight Media" />
+<meta name="dcterms.Subject" content="arquitectos, mexico, queretaro" />
+<meta name="dcterms.Contributor" content="Arqcubo" />
+<meta name="dcterms.Date" content="2019-03-01" />
+<meta name="dcterms.Description" content="Más de una década construyendo y ofreciendo arquitectura de calidad." />
+
+<!-- Facebook OpenGraph -->
+
+<meta property="fb:profile_id" content="526511450843551" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:url" content="https://www.arqcubo.com" />
+<meta property="og:title" content="Estudio de Arquitectura | Arqcubo" />
+<meta property="og:description" content="Más de una década construyendo y ofreciendo arquitectura de calidad." />
+<meta property="og:image" content="https://www.arqcubo.com.mx/assets/site/_fbImageTransform/1200x675-arqcubo-hero-image.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Arqcubo" />
+<meta property="og:see_also" content="https://twitter.com/Arqcubostudio" />
+<meta property="og:see_also" content="https://www.facebook.com/arqcubo" />
+<meta property="og:see_also" content="https://plus.google.com/112604454983179147840" />
+<meta property="og:see_also" content="https://www.linkedin.com/company/arqcubo" />
+<meta property="og:see_also" content="https://www.instagram.com/arqcubo" />
+<meta property="og:see_also" content="https://www.pinterest.com/arqcubomx" />
+
+<!-- Twitter Card -->
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@Arqcubostudio" />
+<meta name="twitter:creator" content="@Arqcubostudio" />
+<meta name="twitter:title" content="Estudio de Arquitectura | Arqcubo" />
+<meta name="twitter:description" content="Más de una década construyendo y ofreciendo arquitectura de calidad." />
+<meta name="twitter:image" content="https://www.arqcubo.com.mx/assets/site/_square/1200x675-arqcubo-hero-image.jpg" />
+
+<!-- Google Publisher -->
+
+<link rel="publisher" href="https://plus.google.com/112604454983179147840" />
+
+<!-- Humans.txt authorship https://humanstxt.org -->
+
+<link type="text/plain" rel="author" href="/humans.txt" />
+
+<!-- Domain verification -->
+
+		<!-- <meta name="google-site-verification" content="77vM4uZCa5dhtGQCwWbIgeTY66_Cj62ppzvSr_W-xrg" /> -->
+
+<!-- Identity -->
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Corporation",
+    "name": "Arqcubo S.A. de C.V.",
+    "alternateName": "Arqcubo",
+    "description": "Con más de una década construyendo y ofreciendo arquitectura de calidad, Arqcubo Estudio Arquitectónico cuenta con la infraestructura y los profesionales para materializar la casa de tus sueños con el mejor costo/beneficio. Nos enfocamos en el mercado de Querétaro y CDMX y área metropolitana.",
+    "url": "https://www.arqcubo.com",
+    "sameAs": ["https://twitter.com/Arqcubostudio","https://www.facebook.com/arqcubo","https://plus.google.com/112604454983179147840","https://www.linkedin.com/company/arqcubo","https://www.instagram.com/arqcubo","https://www.pinterest.com/arqcubomx"],
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.arqcubo.com.mx/assets/site/Logo-ArqCubo.png",
+        "height": "736",
+        "width": "800" 
+    },
+    "telephone": "+52 (55) 5562 0219",
+    "email": "&#105;&#110;&#102;&#111;&#114;&#109;&#101;&#115;&#64;&#97;&#114;&#113;&#99;&#117;&#98;&#111;&#46;&#99;&#111;&#109;",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sor Juana Ines de la Cruz 1",
+        "addressLocality": "Col Circuito Dramaturgos",
+        "addressRegion": "Naucalpan",
+        "postalCode": "53100",
+        "addressCountry": "MX" 
+    },
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.arqcubo.com.mx/assets/site/Logo-ArqCubo.png",
+        "height": "736",
+        "width": "800" 
+    },
+    "location": {
+        "@type": "Place",
+        "name": "Arqcubo S.A. de C.V.",
+        "alternateName": "Arqcubo",
+        "description": "Con más de una década construyendo y ofreciendo arquitectura de calidad, Arqcubo Estudio Arquitectónico cuenta con la infraestructura y los profesionales para materializar la casa de tus sueños con el mejor costo/beneficio. Nos enfocamos en el mercado de Querétaro y CDMX y área metropolitana.",
+        "hasMap": "https://maps.google.com/maps?q=Arqcubo+S.A.+de+C.V.%2C+Sor+Juana+Ines+de+la+Cruz+1%2C+Col+Circuito+Dramaturgos%2C+Naucalpan+53100%2C+MX",
+        "telephone": "+52 (55) 5562 0219",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.arqcubo.com.mx/assets/site/Logo-ArqCubo.png",
+            "height": "736",
+            "width": "800" 
+        },
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.arqcubo.com.mx/assets/site/Logo-ArqCubo.png",
+            "height": "736",
+            "width": "800" 
+        },
+        "url": "https://www.arqcubo.com",
+        "sameAs": ["https://twitter.com/Arqcubostudio","https://www.facebook.com/arqcubo","https://plus.google.com/112604454983179147840","https://www.linkedin.com/company/arqcubo","https://www.instagram.com/arqcubo","https://www.pinterest.com/arqcubomx"],
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "-99.245",
+            "longitude": "19.517" 
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Sor Juana Ines de la Cruz 1",
+            "addressLocality": "Col Circuito Dramaturgos",
+            "addressRegion": "Naucalpan",
+            "postalCode": "53100",
+            "addressCountry": "MX" 
+        } 
+    },
+    "founder": "Arq. Barrios",
+    "foundingDate": "2006",
+    "contactPoint": [
+        {
+            "@type": "ContactPoint",
+            "telephone": "+52 (55) 5562 0219",
+            "contactType": "sales" 
+        },
+        {
+            "@type": "ContactPoint",
+            "telephone": "+52 (442) 325 1874",
+            "contactType": "sales" 
+        }
+    ] 
+}
+</script>
+
+<!-- WebSite -->
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Arqcubo",
+    "description": "Más de una década construyendo y ofreciendo arquitectura de calidad.",
+    "url": "https://www.arqcubo.com",
+    "image": "https://www.arqcubo.com.mx/assets/site/_fbImageTransform/1200x675-arqcubo-hero-image.jpg",
+    "sameAs": ["https://twitter.com/Arqcubostudio","https://www.facebook.com/arqcubo","https://plus.google.com/112604454983179147840","https://www.linkedin.com/company/arqcubo","https://www.instagram.com/arqcubo","https://www.pinterest.com/arqcubomx"],
+    "copyrightHolder": {
+        "@type": "Corporation",
+        "name": "Arqcubo S.A. de C.V.",
+        "alternateName": "Arqcubo",
+        "description": "Con más de una década construyendo y ofreciendo arquitectura de calidad, Arqcubo Estudio Arquitectónico cuenta con la infraestructura y los profesionales para materializar la casa de tus sueños con el mejor costo/beneficio. Nos enfocamos en el mercado de Querétaro y CDMX y área metropolitana.",
+        "url": "https://www.arqcubo.com",
+        "sameAs": ["https://twitter.com/Arqcubostudio","https://www.facebook.com/arqcubo","https://plus.google.com/112604454983179147840","https://www.linkedin.com/company/arqcubo","https://www.instagram.com/arqcubo","https://www.pinterest.com/arqcubomx"],
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.arqcubo.com.mx/assets/site/Logo-ArqCubo.png",
+            "height": "736",
+            "width": "800" 
+        },
+        "telephone": "+52 (55) 5562 0219",
+        "email": "&#105;&#110;&#102;&#111;&#114;&#109;&#101;&#115;&#64;&#97;&#114;&#113;&#99;&#117;&#98;&#111;&#46;&#99;&#111;&#109;",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Sor Juana Ines de la Cruz 1",
+            "addressLocality": "Col Circuito Dramaturgos",
+            "addressRegion": "Naucalpan",
+            "postalCode": "53100",
+            "addressCountry": "MX" 
+        },
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.arqcubo.com.mx/assets/site/Logo-ArqCubo.png",
+            "height": "736",
+            "width": "800" 
+        },
+        "location": {
+            "@type": "Place",
+            "name": "Arqcubo S.A. de C.V.",
+            "alternateName": "Arqcubo",
+            "description": "Con más de una década construyendo y ofreciendo arquitectura de calidad, Arqcubo Estudio Arquitectónico cuenta con la infraestructura y los profesionales para materializar la casa de tus sueños con el mejor costo/beneficio. Nos enfocamos en el mercado de Querétaro y CDMX y área metropolitana.",
+            "hasMap": "https://maps.google.com/maps?q=Arqcubo+S.A.+de+C.V.%2C+Sor+Juana+Ines+de+la+Cruz+1%2C+Col+Circuito+Dramaturgos%2C+Naucalpan+53100%2C+MX",
+            "telephone": "+52 (55) 5562 0219",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.arqcubo.com.mx/assets/site/Logo-ArqCubo.png",
+                "height": "736",
+                "width": "800" 
+            },
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.arqcubo.com.mx/assets/site/Logo-ArqCubo.png",
+                "height": "736",
+                "width": "800" 
+            },
+            "url": "https://www.arqcubo.com",
+            "sameAs": ["https://twitter.com/Arqcubostudio","https://www.facebook.com/arqcubo","https://plus.google.com/112604454983179147840","https://www.linkedin.com/company/arqcubo","https://www.instagram.com/arqcubo","https://www.pinterest.com/arqcubomx"],
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-99.245",
+                "longitude": "19.517" 
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Sor Juana Ines de la Cruz 1",
+                "addressLocality": "Col Circuito Dramaturgos",
+                "addressRegion": "Naucalpan",
+                "postalCode": "53100",
+                "addressCountry": "MX" 
+            } 
+        },
+        "founder": "Arq. Barrios",
+        "foundingDate": "2006",
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+52 (55) 5562 0219",
+                "contactType": "sales" 
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+52 (442) 325 1874",
+                "contactType": "sales" 
+            }
+        ] 
+    },
+    "author": {
+        "@type": "Corporation",
+        "name": "Arqcubo S.A. de C.V.",
+        "alternateName": "Arqcubo",
+        "description": "Con más de una década construyendo y ofreciendo arquitectura de calidad, Arqcubo Estudio Arquitectónico cuenta con la infraestructura y los profesionales para materializar la casa de tus sueños con el mejor costo/beneficio. Nos enfocamos en el mercado de Querétaro y CDMX y área metropolitana.",
+        "url": "https://www.arqcubo.com",
+        "sameAs": ["https://twitter.com/Arqcubostudio","https://www.facebook.com/arqcubo","https://plus.google.com/112604454983179147840","https://www.linkedin.com/company/arqcubo","https://www.instagram.com/arqcubo","https://www.pinterest.com/arqcubomx"],
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.arqcubo.com.mx/assets/site/Logo-ArqCubo.png",
+            "height": "736",
+            "width": "800" 
+        },
+        "telephone": "+52 (55) 5562 0219",
+        "email": "&#105;&#110;&#102;&#111;&#114;&#109;&#101;&#115;&#64;&#97;&#114;&#113;&#99;&#117;&#98;&#111;&#46;&#99;&#111;&#109;",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Sor Juana Ines de la Cruz 1",
+            "addressLocality": "Col Circuito Dramaturgos",
+            "addressRegion": "Naucalpan",
+            "postalCode": "53100",
+            "addressCountry": "MX" 
+        },
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.arqcubo.com.mx/assets/site/Logo-ArqCubo.png",
+            "height": "736",
+            "width": "800" 
+        },
+        "location": {
+            "@type": "Place",
+            "name": "Arqcubo S.A. de C.V.",
+            "alternateName": "Arqcubo",
+            "description": "Con más de una década construyendo y ofreciendo arquitectura de calidad, Arqcubo Estudio Arquitectónico cuenta con la infraestructura y los profesionales para materializar la casa de tus sueños con el mejor costo/beneficio. Nos enfocamos en el mercado de Querétaro y CDMX y área metropolitana.",
+            "hasMap": "https://maps.google.com/maps?q=Arqcubo+S.A.+de+C.V.%2C+Sor+Juana+Ines+de+la+Cruz+1%2C+Col+Circuito+Dramaturgos%2C+Naucalpan+53100%2C+MX",
+            "telephone": "+52 (55) 5562 0219",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.arqcubo.com.mx/assets/site/Logo-ArqCubo.png",
+                "height": "736",
+                "width": "800" 
+            },
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.arqcubo.com.mx/assets/site/Logo-ArqCubo.png",
+                "height": "736",
+                "width": "800" 
+            },
+            "url": "https://www.arqcubo.com",
+            "sameAs": ["https://twitter.com/Arqcubostudio","https://www.facebook.com/arqcubo","https://plus.google.com/112604454983179147840","https://www.linkedin.com/company/arqcubo","https://www.instagram.com/arqcubo","https://www.pinterest.com/arqcubomx"],
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "-99.245",
+                "longitude": "19.517" 
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Sor Juana Ines de la Cruz 1",
+                "addressLocality": "Col Circuito Dramaturgos",
+                "addressRegion": "Naucalpan",
+                "postalCode": "53100",
+                "addressCountry": "MX" 
+            } 
+        },
+        "founder": "Arq. Barrios",
+        "foundingDate": "2006",
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+52 (55) 5562 0219",
+                "contactType": "sales" 
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+52 (442) 325 1874",
+                "contactType": "sales" 
+            }
+        ] 
+    },
+    "creator": {
+        "@type": "Organization",
+        "name": "Insight Media",
+        "alternateName": "Insightmedia",
+        "description": "Agencia Digital en México",
+        "url": "https://www.insightmedia.com.mx",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.arqcubo.com.mx/assets/logos/20180808-Logo-Insight-Compuesto.jpg",
+            "height": "720",
+            "width": "960" 
+        },
+        "telephone": "+52 55 26254096",
+        "email": "&#101;&#113;&#117;&#105;&#112;&#111;&#64;&#105;&#110;&#115;&#105;&#103;&#104;&#116;&#109;&#101;&#100;&#105;&#97;&#46;&#99;&#111;&#109;&#46;&#109;&#120;",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Alamo Plateado 44",
+            "addressLocality": "Los Alamos",
+            "addressRegion": "Naucalpan",
+            "postalCode": "53230",
+            "addressCountry": "México" 
+        },
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.arqcubo.com.mx/assets/logos/20180808-Logo-Insight-Compuesto.jpg",
+            "height": "720",
+            "width": "960" 
+        },
+        "location": {
+            "@type": "Place",
+            "name": "Insight Media",
+            "alternateName": "Insightmedia",
+            "description": "Agencia Digital en México",
+            "hasMap": "https://maps.google.com/maps?q=Insight+Media%2C+Alamo+Plateado+44%2C+Los+Alamos%2C+Naucalpan+53230%2C+M%C3%A9xico",
+            "telephone": "+52 55 26254096",
+            "url": "https://www.insightmedia.com.mx",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Alamo Plateado 44",
+                "addressLocality": "Los Alamos",
+                "addressRegion": "Naucalpan",
+                "postalCode": "53230",
+                "addressCountry": "México" 
+            } 
+        },
+        "foundingDate": "2005",
+        "foundingLocation": "México",
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+52-55-26254096",
+                "contactType": "sales" 
+            }
+        ] 
+    } 
+}
+</script>
+
+<!-- Place -->
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Place",
+    "name": "Arqcubo S.A. de C.V.",
+    "alternateName": "Arqcubo",
+    "description": "Con más de una década construyendo y ofreciendo arquitectura de calidad, Arqcubo Estudio Arquitectónico cuenta con la infraestructura y los profesionales para materializar la casa de tus sueños con el mejor costo/beneficio. Nos enfocamos en el mercado de Querétaro y CDMX y área metropolitana.",
+    "hasMap": "https://maps.google.com/maps?q=Arqcubo+S.A.+de+C.V.%2C+Sor+Juana+Ines+de+la+Cruz+1%2C+Col+Circuito+Dramaturgos%2C+Naucalpan+53100%2C+MX",
+    "telephone": "+52 (55) 5562 0219",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.arqcubo.com.mx/assets/site/Logo-ArqCubo.png",
+        "height": "736",
+        "width": "800" 
+    },
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.arqcubo.com.mx/assets/site/Logo-ArqCubo.png",
+        "height": "736",
+        "width": "800" 
+    },
+    "url": "https://www.arqcubo.com",
+    "sameAs": ["https://twitter.com/Arqcubostudio","https://www.facebook.com/arqcubo","https://plus.google.com/112604454983179147840","https://www.linkedin.com/company/arqcubo","https://www.instagram.com/arqcubo","https://www.pinterest.com/arqcubomx"],
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "-99.245",
+        "longitude": "19.517" 
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sor Juana Ines de la Cruz 1",
+        "addressLocality": "Col Circuito Dramaturgos",
+        "addressRegion": "Naucalpan",
+        "postalCode": "53100",
+        "addressCountry": "MX" 
+    } 
+}
+</script>
 
 
-<meta http-equiv="Content-Type" content="text/html" charset="UTF-8"/>
-<meta http-equiv="X-UA-Compatible" content="IE=8">
-<meta http-equiv="Content-Language" content="es-MX">
-<link rel="alternate" href="arqcubo.com" hreflang="es-mx" />
-<link href="images/ArqCubo.png" rel="image_src">
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="keywords" content="Cotizador en Línea, Cotizador de construcción, Presupuesto de Construcción, Presupuesto en Línea para la construcción de tu casa, arqcubo Querétaro, Arqcubo Querétaro, Despacho de arquitectura en Querétaro, Arquitectos en Querétaro, Constructoras en Querétaro Despacho de arquitectura, Arquitectos en la ciudad de México, Constructoras en la Ciudad de México, Constructoras en el DF, Estudio de Arquitectura en Querétaro, Estudio de Arquitectura en la Ciudad de México, Servicios de Arquitectura, costo para construir una casa, cuanto cuesta construir una casa, Despacho de arquitectos en Querétaro y Ciudad de México, costo de construir una casa, precio de construcción de residencias en México, precio de construcción de residencias en Querétaro"/>
-<meta name="description" content="Cotizador en Línea | Despacho de Arquitectos en Querétaro y Ciudad de México">
+<!-- Breadcrumbs -->
 
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TP8J2LV');</script>
-<!-- End Google Tag Manager -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": "1",
+            "item": {
+                "@id": "https://www.arqcubo.com",
+                "name": "Homepage" 
+            } 
+        }
+    ] 
+}
+</script>
+
+<!-- END SEOmatic rendered SEO Meta -->
+
+
 
 <!--Import Google Icon Font-->
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,200' rel='stylesheet' type='text/css'>
+
 <!--Import materialize.css-->
 <link rel="stylesheet" href="css/normalize.css">
 <link rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
 <link rel="stylesheet" type="text/css" href="css/sweetalert.css">
 <link rel="stylesheet" href="css/master.css">
 <link rel="stylesheet" href="css/animate.css">
+
 <!--Import jQuery before materialize.js-->
 <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="js/materialize.min.js"></script>
@@ -38,38 +477,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script type="text/javascript" src="js/sweetalert.min.js"> </script>
 
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-105083226-1', 'auto');
-  ga('send', 'pageview');
-</script>
+<!-- Google Tag & Facebook Pixel Code -->
 
-<!-- Facebook Pixel Code -->
-<script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '880858285436057');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=880858285436057&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
+<!-- End Google Tag & Facebook Pixel Code -->
 
 </head>
 <body >
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TP8J2LV"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 <!-- End Google Tag Manager (noscript) -->
 
 	<main class="row">
@@ -207,7 +622,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<label for="si">
 						<div class="col s6 m6 center center-align animated flipInX opcion">
 							<center><img src="img/si.png" alt=""></center>
-							<span>Si</span>
+							<span>si</span>
 						</div>
 						<input name="Pregunta4" type="radio" id="si" value="si" class="cuatro" />
 					</label>
@@ -215,7 +630,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<label for="no">
 						<div class="col s6 m6 center center-align animated flipInX opcion ">
 							<center><img src="img/no.png" alt="">	</center>
-							<span>No</span>
+							<span>NO</span>
 						</div>
 						<input name="Pregunta4" type="radio" id="no" value="no" class="cuatro" />
 					</label>
@@ -242,7 +657,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<label for="mail">Enviar cotización por correo electrónico</label-->
 							<h5 class="grey-text">¿Necesitas un presupuesto detallado? Envíanos un mensaje y un experto se comunicará contigo a la brevedad</h5>
 							<br>
-							<a href="http://www.arqcubo.com/Informes.html"> <input type="submit" class="btn" value="ENVIAR MENSAJE"> </a>
+							<a href="https://www.arqcubo.com/Informes.html"> <input type="submit" class="btn" value="ENVIAR MENSAJE"> </a>
 						<!--/form-->
 					</div>
 				</div>
@@ -256,8 +671,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<h4 class='grey-text' >Zona en la que deseas construir.</h4>
 				
 				<div class="input-field col s9">
-					<label for="autocomplete" class="active">Zona</label>	
-					<input type="text" id="zona" placeholder="Ingrese la Zona">
+					<label for="autocomplete" class="active">Estado o Municipio</label>	
+					<input type="text" id="zona" placeholder="Ingrese Estado o Municipio">
 				</div>
 			</form>
 		</div>
@@ -547,12 +962,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class='col s12 footer'>
 			<div class='left'>
 				<a href="https://www.facebook.com/ArqCubo/"><img src="img/003-facebook-black-social-button-circle.png" alt=""></a>
-				<a href="https://twitter.com/Arqcubostudio"><img src="img/005-twitter-black-shape.png" alt=""></a>
 				<a href="https://pinterest.com.mx/arqcubomx/"><img src="img/pinterest.png" alt=""></a>
 				<a href="https://www.instagram.com/arqcubo/"><img src="img/001-instagram-logo.png" alt=""></a>
 			</div>
 			<div class='right'>
-				<a href="http://www.arqcubo.com" class='grey-text nosotros'>Nosotros</a>
+				<a href="https://www.arqcubo.com" class='grey-text nosotros'>Nosotros</a>
 			</div>		
 		</div>
 		
