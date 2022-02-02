@@ -920,13 +920,13 @@ strong {
           height: 10px; }
         #header nav li a.sel:before {
           color: #222; }
-        #header nav li a[href$='nosotros']:before {
+        #header nav li a[href$='nosotros.html']:before {
           content: '\e91b'; }
-        #header nav li a[href$='servicios']:before {
+        #header nav li a[href$='servicios.html']:before {
           content: '\e904'; }
-        #header nav li a[href$='proyectos']:before {
+        #header nav li a[href$='proyectos.html']:before {
           content: '\e906'; }
-        #header nav li a[href$='blog']:before {
+        #header nav li a[href$='blog.html']:before {
           content: '\e905'; }
         #header nav li a strong {
           display: block;
