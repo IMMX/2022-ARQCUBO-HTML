@@ -5,7 +5,7 @@
 @font-face {
     font-family: 'sedgwick_coregular';
     src: url('sedgwick_co-webfont.eot');
-    src: url('sedgwick_co-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('sedgwick_co-webfont_.eot#iefix') format('embedded-opentype'),
          url('sedgwick_co-webfont.woff') format('woff'),
          url('sedgwick_co-webfont.ttf') format('truetype'),
          url('sedgwick_co-webfont.svg#sedgwick_coregular') format('svg');
@@ -20,7 +20,7 @@
 @font-face {
     font-family: 'southern_aire_personal_use_Rg';
     src: url('southernaire_personal_use_only-webfont.eot');
-    src: url('southernaire_personal_use_only-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('southernaire_personal_use_only-webfont_.eot#iefix') format('embedded-opentype'),
          url('southernaire_personal_use_only-webfont.woff') format('woff'),
          url('southernaire_personal_use_only-webfont.ttf') format('truetype'),
          url('southernaire_personal_use_only-webfont.svg#southern_aire_personal_use_Rg') format('svg');
@@ -35,7 +35,7 @@
 @font-face {
     font-family: 'league_gothicregular';
     src: url('leaguegothic-regular-webfont.eot');
-    src: url('leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('leaguegothic-regular-webfont_.eot#iefix') format('embedded-opentype'),
          url('leaguegothic-regular-webfont.woff') format('woff'),
          url('leaguegothic-regular-webfont.ttf') format('truetype'),
          url('leaguegothic-regular-webfont.svg#league_gothicregular') format('svg');
@@ -50,7 +50,7 @@
 @font-face {
     font-family: 'montserratregular';
     src: url('montserrat-regular-webfont.eot');
-    src: url('montserrat-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('montserrat-regular-webfont_.eot#iefix') format('embedded-opentype'),
          url('montserrat-regular-webfont.woff') format('woff'),
          url('montserrat-regular-webfont.ttf') format('truetype'),
          url('montserrat-regular-webfont.svg#montserratregular') format('svg');
@@ -65,7 +65,7 @@
 @font-face {
     font-family: 'montserratbold';
     src: url('montserrat-bold-webfont.eot');
-    src: url('montserrat-bold-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('montserrat-bold-webfont_.eot#iefix') format('embedded-opentype'),
          url('montserrat-bold-webfont.woff') format('woff'),
          url('montserrat-bold-webfont.ttf') format('truetype'),
          url('montserrat-bold-webfont.svg#montserratbold') format('svg');
@@ -80,7 +80,7 @@
 @font-face {
     font-family: 'league_gothicitalic';
     src: url('leaguegothic-italic-webfont.eot');
-    src: url('leaguegothic-italic-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('leaguegothic-italic-webfont_.eot#iefix') format('embedded-opentype'),
          url('leaguegothic-italic-webfont.woff') format('woff'),
          url('leaguegothic-italic-webfont.ttf') format('truetype'),
          url('leaguegothic-italic-webfont.svg#league_gothicitalic') format('svg');
@@ -95,7 +95,7 @@
 @font-face {
     font-family: 'league_gothiccondensed_italic';
     src: url('leaguegothic-condenseditalic-webfont.eot');
-    src: url('leaguegothic-condenseditalic-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('leaguegothic-condenseditalic-webfont_.eot#iefix') format('embedded-opentype'),
          url('leaguegothic-condenseditalic-webfont.woff') format('woff'),
          url('leaguegothic-condenseditalic-webfont.ttf') format('truetype'),
          url('leaguegothic-condenseditalic-webfont.svg#league_gothiccondensed_italic') format('svg');
@@ -110,7 +110,7 @@
 @font-face {
     font-family: 'league_gothicCnRg';
     src: url('leaguegothic-condensedregular-webfont.eot');
-    src: url('leaguegothic-condensedregular-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('leaguegothic-condensedregular-webfont_.eot#iefix') format('embedded-opentype'),
          url('leaguegothic-condensedregular-webfont.woff') format('woff'),
          url('leaguegothic-condensedregular-webfont.ttf') format('truetype'),
          url('leaguegothic-condensedregular-webfont.svg#league_gothicCnRg') format('svg');
@@ -125,7 +125,7 @@
 @font-face {
     font-family: 'turnpikeregular';
     src: url('turnpike-webfont.eot');
-    src: url('turnpike-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('turnpike-webfont_.eot#iefix') format('embedded-opentype'),
          url('turnpike-webfont.woff') format('woff'),
          url('turnpike-webfont.ttf') format('truetype'),
          url('turnpike-webfont.svg#turnpikeregular') format('svg');
@@ -140,7 +140,7 @@
 @font-face {
     font-family: 'steelfish_rgbold';
     src: url('steelfish_bd-webfont.eot');
-    src: url('steelfish_bd-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('steelfish_bd-webfont_.eot#iefix') format('embedded-opentype'),
          url('steelfish_bd-webfont.woff') format('woff'),
          url('steelfish_bd-webfont.ttf') format('truetype'),
          url('steelfish_bd-webfont.svg#steelfish_rgbold') format('svg');
