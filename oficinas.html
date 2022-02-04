@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset='utf-8' />
-<title>Oficinas Arqcubo</title>
-<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet'>
-<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.47.0/mapbox-gl.js' type="4300a4b2228ccb23be24e680-text/javascript"></script>
-<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.47.0/mapbox-gl.css' rel='stylesheet' />
-<style>body {
+  <head>
+      <meta charset='utf-8' />
+      <title>Oficinas Arqcubo 2022</title>
+      <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+      <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet'>
+      <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.47.0/mapbox-gl.js'></script>
+      <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.47.0/mapbox-gl.css' rel='stylesheet' />
+
+      <style>
+body {
           color:#404040;
           font:400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
           margin:0;
@@ -126,7 +128,7 @@
   cursor: pointer;
   height: 56px;
   width: 56px;
-  background-image: url(assets/images/marker.png);
+  background-image: url(/assets/images/marker.png);
   background-color: rgba(0, 0, 0, 0); }
 
 .clearfix {
@@ -185,15 +187,26 @@
 #mapbody {background-color: #4bc0d5; }
 </style>
 </head>
-<body id="mapbody">
-<div class='sidebar'>
-<div class='heading'>
-<h1>Nuestras Oficinas</h1>
-</div>
-<div id='listings' class='listings'></div>
-</div>
-<div id='map' class='map'> </div>
-<script type="4300a4b2228ccb23be24e680-text/javascript">
+
+  <body id="mapbody">
+
+
+
+    <div class='sidebar'>
+			<div class='heading'>
+				<h1>Nuestras Oficinas</h1>
+			</div>
+			<div id='listings' class='listings'></div>
+		</div>
+
+		<div id='map' class='map'> </div>
+
+	
+
+
+
+
+		<script>
   // This will let you use the .remove() function later on
   if (!('remove' in Element.prototype)) {
     Element.prototype.remove = function() {
@@ -232,8 +245,8 @@
           ]
         },
         "properties": {
-          "phoneFormatted": "+52 (55) 5562 0219",
-          "phone": "5555620219",
+          "phoneFormatted": "informes@arqcubo.com",
+          "phone": "5503861365",
           "address": "Sor Juana Ines de la Cruz 1",
           "city": "CDMX",
           "country": "Mexico",
@@ -251,8 +264,8 @@
           ]
         },
         "properties": {
-          "phoneFormatted": "+52 (55) 5562 0219",
-          "phone": "5555620219",
+          "phoneFormatted": "informes@arqcubo.com",
+          "phone": "4423251874",
           "address": "Av. Sta. Fe 122",
           "city": "QRO.",
           "country": "Mexico",
@@ -375,6 +388,8 @@
     }
   }
 
+
 </script>
-<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="4300a4b2228ccb23be24e680-|49" defer=""></script></body>
+  </body>
 </html>
+
