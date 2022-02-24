@@ -1,7 +1,7 @@
-# robots.txt for https://www.arqcubo.com/
+# robots.txt for https://arqcubo.com/
 # For a multi-environment setup, see: https://nystudio107.com/blog/prevent-google-from-indexing-staging-sites
 
-Sitemap: https://www.arqcubo.com/sitemap.xml
+Sitemap: https://arqcubo.com/sitemap.xml
 
 # Live - Don't allow web crawlers to index Craft
 
